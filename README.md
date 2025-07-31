@@ -25,3 +25,39 @@ The layout is designed to be clean, minimal, and fully adaptable to different sc
 
 ## 📁 Project Structure
 
+admin-dashboard/
+├── index.html        # Main HTML structure
+├── style.css         # Styling and theming using CSS Grid and variables
+└── README.md         # Project documentation
+```
+
+---
+
+## 🌙 Theme Switching
+
+- The theme switcher toggles between **light** and **dark** modes.
+- Built using a simple checkbox and class toggling in JavaScript.
+- Color schemes are controlled using **CSS variables** for better maintainability.
+
+---
+
+## 📱 Responsive Design
+
+This dashboard adjusts automatically to:
+- Desktop 💻
+- Tablet 📱
+- Mobile 📲
+
+Try resizing your browser to see it in action!
+
+---
+
+## 📌 License
+
+This project is licensed under the [MIT License](LICENSE) – feel free to use and customize it.
+
+---
+
+## 🙌 Author
+
+Made by [Asheem Khan(23BCS13395)](https://github.com/AsheemK7)
